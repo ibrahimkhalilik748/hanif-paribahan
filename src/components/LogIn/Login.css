@@ -1,0 +1,39 @@
+form{
+    width: 500px;
+    border:1px solid white;
+    padding:5px;
+    background-color:white;
+    margin: auto;
+    padding-top: 20px;
+    /* height:400px; */
+    border-radius: 10px;
+}
+form h2{
+    text-align:left;
+    margin-left: 70px;
+}
+.center{
+    text-align:center;
+}
+.center button{
+    width:250px;
+}
+.input{
+    width:350px;
+    height: 40px;
+    border:0px;
+    border-bottom: 1px solid black;
+}
+.none{
+    border:none;
+}
+button{
+    background-color: none;
+    color:black;
+    border:1px solid black;
+    border-radius:20px;
+    height: 40px;
+}
+label{
+    margin-right: 10px;
+}

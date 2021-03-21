@@ -1,0 +1,41 @@
+ul li{
+    list-style: none;
+    float: left;
+    padding: 10px;
+    margin: 15px;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
+a:hover{
+    text-decoration:none;
+    color:black;
+}
+.button{
+    margin-top: 16px;
+    border: 0px;
+    padding: 7px 20px;
+    background-color:#FF6E40;
+    color: #fff;
+    border-color: #007bff;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.account{
+    height: 150px;
+    width: 225px;
+}
+
+.account .img{
+    width:100%;
+}
+.account img{
+    width:90%;
+    border-radius: 30px;
+    /* margin-right: 0px; */
+}
+.account .name{
+    margin-top: 35px;
+    width:100px;
+}
